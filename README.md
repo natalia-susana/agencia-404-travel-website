@@ -171,4 +171,22 @@ El proyecto permitió poner en práctica conceptos relacionados con:
 - Control de versiones.
 - Trabajo colaborativo.
 
+---
+## 👥 Integrantes del equipo
+
+Este proyecto fue desarrollado de manera colaborativa por:
+
+- **Daniela Tobon**
+- **David Vargas**
+- **Diana Hurtado**
+- **Elias López**
+- **Esther Nila**
+- **Karen Luna**
+- **Natalia Cruz**
+- **Óscar Miranda**
+- **Vanessa Estrada**
+
+La organización y distribución de actividades se realizó aplicando **Scrum como marco de trabajo ágil**, promoviendo la colaboración, asignación de responsabilidades y seguimiento de las tareas del proyecto.
+
+
 > **Nota:** Agencia 404 es un proyecto desarrollado con fines exclusivamente académicos y demostrativos.
